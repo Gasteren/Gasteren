@@ -49,20 +49,13 @@
 
 ![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
 
 ##
 
 ### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/w1wwm52ufnyvf2c8653t6axql)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w1wwm52ufnyvf2c8653t6axql&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
 ### Github Stats
