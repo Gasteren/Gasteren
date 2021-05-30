@@ -1,135 +1,116 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/amandewatnitrr) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<br><br>
+<a href="https://twitter.com/amandewatnitrr">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/amandewatnitrr">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/akd_beast_slayer/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
+  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
+  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+</a>
+<br><br>
+<a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
+  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/amandewatnitrr">
+  <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<a href="mailto:amandewatnitrr@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-👇 Hit in your console or terminal to connect with me.
+## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
+- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
+- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
+- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
+- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
+- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+</div>
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["node", "fastify", "express", "SuiteScript"],
-        },
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        mobileApp: {
-            native: ["Android Development", "Ios Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+##
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div>
+<h4><b><samp>Experiences:</samp></b></h4>
+- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee<br>
+- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
+- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
+- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
+- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+</div>
 
+##
+<h4><b><samp>Skills and Languages</samp></b></h4>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+
+##
+<h4><b><samp>Tools and Platform</samp></b></h4>
+
+![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+
+##
+
+### Now Playing 🎧
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
+<br/>
 ---
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-748-blue)
+### Github Stats
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)-->
+<p align="center">
+  <a href="https://github.com/amandewatnitrr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 89 Contributions in the Year 2021
- > 
-> 📦 348.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-🌆 Daytime    175 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
-🌃 Evening    140 commits    ███████░░░░░░░░░░░░░░░░░░   31.11% 
-🌙 Night      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
-Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Thursday     71 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
-Friday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-Sunday       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Swift                    3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   31.31% 
-PHP                      2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-Python                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-SQL                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
-
-🔥 Editors: 
-Xcode                    3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   31.31% 
-PyCharm                  3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   31.12% 
-PhpStorm                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-DataGrip                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-💻 Operating System: 
-Mac                      9 hrs 53 mins       ████████████████████░░░░░   81.52% 
-Windows                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.48%
-
-```
-
-**I Mostly Code in Vue** 
-
-```text
-Vue                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+</p>
