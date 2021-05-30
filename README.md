@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://github.com/Gasteren">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gasteren&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gasteren)](https://github.com/Gasteren/github-readme-stats)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gasteren)"/>
   </a>
 </p>
 
