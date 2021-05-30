@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
 
-<br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
