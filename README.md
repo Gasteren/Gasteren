@@ -71,6 +71,6 @@
 ##
 <p align="center"> 
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?Gasteren)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGasteren&count_bg=%234500F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views%3A&edge_flat=true"/></a>
 
 </p>
