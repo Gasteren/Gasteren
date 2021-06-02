@@ -43,6 +43,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-blue?style=flat-square&logo=lua&logoColor=white)
 
 ##
 <h4><b><samp>Tools and Platform</samp></b></h4>
