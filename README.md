@@ -15,7 +15,7 @@
 
 - 👷 <samp>Currently pursuing a degree in Node.js.
 - 🔭 <samp>Diploma in Software Engineering from Horizon College
-- ✍🏻 <samp>Owner of Doublerust.com Rust Server. (Fresh Project)
+- ✍🏻 <samp>Owner of Doublerust.net Rust Server. (Fresh Project)
 - 💼 <samp>I’m looking for **Internship/Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Raspberry-Pi/PHP-Dev/HTML-Dev
 - ⚡ <samp>Fun fact: I'm a introvert & extrovert at times.
@@ -26,7 +26,7 @@
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
   
-- 👷 <samp>Server Adminstrator at Doublerust.com | Server Hosting<br>
+- 👷 <samp>Server Adminstrator at Doublerust.net | Server Hosting<br>
 - 👨🏾‍💻 <samp>Support Staff Member for Jeeves.bot (2017-2020)<br>
 - 🕵🏻 <samp>Online Server hosting for Rust, Minecraft, CSGO, Runescape, Gunz<br>
 - ☄️ <samp>IT Surveillance & Cyber Security<br>
