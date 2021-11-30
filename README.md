@@ -30,7 +30,6 @@
 - 👨🏾‍💻 <samp>Support Staff Member for Jeeves.bot (2017-2020)<br>
 - 🕵🏻 <samp>Online Server hosting for Rust, Minecraft, CSGO, Runescape, Gunz<br>
 - ☄️ <samp>IT Surveillance & Cyber Security<br>
-- ☁ <samp>30 Days of Google Cloud - Training<br>
 </div>
 
 ##
