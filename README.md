@@ -15,8 +15,7 @@
 
 - 👷 <samp>Currently pursuing a degree in Node.js.
 - 🔭 <samp>Diploma in Software Engineering from Horizon College
-- ✍🏻 <samp>Owner of Doublerust.net Rust Server. (Fresh Project)
-- 💼 <samp>I’m looking for **Internship/Full-Time** Opportunities/roles.
+- 💼 <samp>Currently working as a Data Center Technician for Microsoft.
 - 💬 <samp>Ask me about IoT/Raspberry-Pi/PHP-Dev/HTML-Dev
 - ⚡ <samp>Fun fact: I'm a introvert & extrovert at times.
 </div>
@@ -26,7 +25,7 @@
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
   
-- 👷 <samp>Server Adminstrator at Doublerust.net | Server Hosting<br>
+- 👷 <samp>Server Adminstrator at Doublerust.net (2021-2022)<br>
 - 👨🏾‍💻 <samp>Support Staff Member for Jeeves.bot (2017-2020)<br>
 - 🕵🏻 <samp>Online Server hosting for Rust, Minecraft, CSGO, Runescape, Gunz<br>
 - ☄️ <samp>IT Surveillance & Cyber Security<br>
@@ -37,7 +36,6 @@
 
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -54,9 +52,6 @@
 
 ##
 
-### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w1wwm52ufnyvf2c8653t6axql&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-<br/>
 ---
 ### Github Stats
 <!--
